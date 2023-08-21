@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <color name="background">#4B3A68</color>
+
+    <color name="superheroTitle">#9B6FE8</color>
+    <color name="text">#FF272829</color>
+
+
+    <color name="superheroIntelligence">#6726F1</color>
+    <color name="superheroStrength">#FFFF0060</color>
+    <color name="superheroSpeed">#FFF7EC09</color>
+    <color name="superheroAbility">#FF97FEED</color>
+    <color name="superheroPower">#FF0079FF</color>
+    <color name="superheroCombat">#FF00FFAB</color>
+
+
+
+
+    <!--                intelligence-->
+    <!--               strength-->
+    <!--               speed"-->
+    <!--               ability-->
+    <!--               power-->
+    <!--                combat-->
+
+</resources>

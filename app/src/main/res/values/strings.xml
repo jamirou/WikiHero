@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">SuperHeroesApp</string>
+    <string name="superhero_image_text">Superhero Image</string>
+    <string name="intelligence">Intelligence</string>
+    <string name="strength">Strength</string>
+    <string name="speed">Speed</string>
+    <string name="durability">Durability</string>
+    <string name="power">Power</string>
+    <string name="combat">Combat</string>
+    <string name="title">WikiHero</string>
+
+    <string name="gender_label">Gender: %s</string>
+    <string name="race_label">Race: %s</string>
+    <string name="height_label">Height: %1$s</string>
+    <string name="weight_label">Weight: %1$s</string>
+
+
+    <string name="alter_Ego">Alter Ego:</string>
+</resources>
