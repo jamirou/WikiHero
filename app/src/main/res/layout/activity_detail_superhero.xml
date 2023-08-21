@@ -35,13 +35,17 @@
             android:background="@color/superheroTitle"
             android:orientation="vertical">
 
-
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="@color/scbackground"
+                android:orientation="vertical">
             <TextView
                 android:id="@+id/tvSuperheroName"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:gravity="center_horizontal"
-                android:textColor="@color/black"
+                android:textColor="@color/white"
                 android:textSize="28sp"
                 android:textStyle="bold"
                 tools:text="Hello android" />
@@ -51,7 +55,7 @@
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:gravity="center_horizontal"
-                android:textColor="@color/black"
+                android:textColor="@color/white"
                 android:textStyle="italic"
                 tools:text="Hello android" />
 
@@ -59,10 +63,11 @@
                 android:id="@+id/tvPublisher"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:textColor="@color/white"
+                android:textColor="@color/superheroTitle"
                 android:gravity="center_horizontal"
                 android:textSize="11sp"
                 tools:text="Hello android" />
+            </LinearLayout>
 
             <LinearLayout
                 android:layout_width="match_parent"
