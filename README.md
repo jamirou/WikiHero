@@ -1,4 +1,4 @@
-# Superheroes App
+# WikiHero App
 
 ## Descripción
 Esta es una aplicación Android que permite a los usuarios buscar y ver información sobre superhéroes utilizando la API de SuperheroAPI. La aplicación muestra detalles como el nombre, imagen, estadísticas de poder, nombre real, editorial, raza, género, altura, peso y alter ego de los superhéroes.
