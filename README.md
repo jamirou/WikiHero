@@ -28,11 +28,3 @@ Esta es una aplicación Android que permite a los usuarios buscar y ver informac
 Este proyecto utiliza la librería Retrofit para realizar llamadas a la API de SuperheroAPI y la librería Picasso para la carga de imágenes. Las llamadas a la API se manejan de forma asíncrona utilizando Coroutines.
 ## Recuerda pedir tu api en [SuperheroAPI](https://superheroapi.com/)
 
-## Créditos
-- [SuperheroAPI](https://superheroapi.com/): API de acceso gratuito que proporciona información detallada sobre superhéroes.
-- Librería Retrofit: Para realizar solicitudes HTTP a la API.
-- Librería Picasso: Para cargar imágenes desde URLs.
-
-## Licencia
-Este proyecto está bajo la Licencia MIT. Consulta el archivo `LICENSE` para más detalles.
-
