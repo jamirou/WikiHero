@@ -9,8 +9,9 @@ Esta es una aplicación Android que permite a los usuarios buscar y ver informac
 - Presentación de la información en una interfaz de usuario amigable.
 
 ## Capturas de Pantalla
-![Inicio](captures/captura1.png)![Personajes](captures/captura2.png)
-![Descripción1](captures/captura3.png)![Descripció2](captures/captura4.png)
+<img src="captures/captura1.png" width="300" alt="Inicio"> <img src="captures/captura2.png" width="300" alt="Personajes">
+
+<img src="captures/captura3.png" width="300" alt="Descripción1"> <img src="captures/captura4.png" width="300" alt="Descripción2">
 
 
 ## Cómo Usar
